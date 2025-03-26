@@ -1,0 +1,19 @@
+.todo-box{
+  height: fit-content;
+  width: 70%;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add_btn{
+  margin-left: 2rem !important;
+}
